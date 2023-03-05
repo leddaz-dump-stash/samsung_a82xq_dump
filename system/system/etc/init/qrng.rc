@@ -1,0 +1,4 @@
+on boot
+    chmod 0644 /dev/qrandom
+    chown system system /sys/class/misc/qrandom/status/diag_status
+    chown system system /sys/class/misc/qrandom/status/selftest_status
