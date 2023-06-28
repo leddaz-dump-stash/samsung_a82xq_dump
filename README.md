@@ -1,0 +1,14 @@
+# a82xqskt-user 13 TP1A.220624.014 A826SKSU4EWE3 release-keys
+- manufacturer: samsung
+- platform: msmnile
+- codename: a82xq
+- flavor: a82xqskt-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: A826SKSU4EWE3
+- tags: release-keys
+- fingerprint: samsung/a82xqskt/a82xq:11/RP1A.200720.012/A826SKSU4EWE3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a82xqskt-user-13-TP1A.220624.014-A826SKSU4EWE3-release-keys
+- repo: samsung_a82xq_dump
